@@ -7,7 +7,7 @@
 
 <p>
   <img align="right" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
-<img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Java%20Backend%20Developer;8+%2B%20years%20of%20hands-on%20experience;Perfect%20Client-Oriented%20Guy&center=true&width=500&height=45" />
+<img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Sincere%20and%20%20Reliable%20Java%20Backend%20Developer;8+%2B%20years%20of%20hands-on%20experience;Perfect%20Client-Oriented%20Guy&center=true&width=500&height=45](https://media4.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif?cid=790b76115816ec4b8b95db6a13e89f6f5886d133f44f1b94&rid=giphy.gif&ct=g" />
 &nbsp;&nbsp;Qualified Software Engineer with <strong>8+</strong> years of hands-on IT experience with main emphasis on <strong>backend development</strong> using <strong>Java</strong>, <strong>Spring</strong> and <strong>Spring Boot</strong> framework with <strong>Microservice architectures</strong>. Participated in leading teams, development of services, components, modules, staff training, writing tests, support and maintenance of existing codebase.<br>
 &nbsp;&nbsp;The strength of me is that I am <strong>Always Sensitive</strong> to modern technologies and <strong>Open to New</strong> things. The past work shows that I understand and embody the needs of customers and be creative on their own.<br>
 &nbsp;&nbsp;I am glad to say that I aim to be the <strong>Perfect Client-Oriented Developer</strong>.
